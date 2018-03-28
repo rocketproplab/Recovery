@@ -1,0 +1,5 @@
+Remove Pin=J3-1 From Net=MOUT1
+Remove Pin=J3-2 From Net=MOUT2
+Remove Pin=J3-3 From Net=EMatch1
+Remove Pin=J3-4 From Net=EMatch2
+Change Component Designator: OldDesignator=J1 NewDesignator=J3

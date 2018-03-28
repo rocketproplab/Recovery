@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=EMatch1 Pin=J3-3
+Removed Pin From Net: NetName=EMatch2 Pin=J3-4
+Removed Pin From Net: NetName=3V3 Pin=J3-5
+Removed Pin From Net: NetName=3V3 Pin=J3-6
+Removed Pin From Net: NetName=LimSwitchNC Pin=J3-7
+Removed Pin From Net: NetName=LimSwitchNO Pin=J3-8
+Removed Pin From Net: NetName=GND Pin=R*-GND
+Removed Pin From Net: NetName=GND Pin=R*-GND
+Removed Pin From Net: NetName=GND Pin=UR2-V
+Removed Pin From Net: NetName=GND Pin=UR2-V
+Removed Pin From Net: NetName=GND Pin=UR2-V
+Removed Pin From Net: NetName=GND Pin=UR2-V
+Added Pin To Net: NetName=3V3 Pin=J3-3
+Added Pin To Net: NetName=3V3 Pin=J3-4
+Added Pin To Net: NetName=LimSwitchNC Pin=J3-5
+Added Pin To Net: NetName=LimSwitchNO Pin=J3-6
+Added Pin To Net: NetName=EMatch1 Pin=J3-7
+Added Pin To Net: NetName=EMatch2 Pin=J3-8
+Added Room: Name=Recovery
